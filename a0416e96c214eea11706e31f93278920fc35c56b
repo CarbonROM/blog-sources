@@ -1,4 +1,143 @@
 {
   "pushCert": "certificate version 0.1\npusher 5383BCBFC0EF8F22 1558100178 +0200\npushee ssh://review.carbonrom.org:29418/CarbonROM/blog-sources\nnonce 1558100178-35465D97855B5B817030E73F35C6D740C0BF97FC\n\n0000000000000000000000000000000000000000 a0416e96c214eea11706e31f93278920fc35c56b refs/for/master\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEAeKysoG6T9uCVbCUU4O8v8DvjyIFAlzeuNIACgkQU4O8v8Dv\njyKyoRAAp6O6VL1wQDPIUwb93vDIUPBLQExc+kp3iPYAxvp3oyhgEr0QDIEWQf5C\n2hJVVn2xa9khk1q/PJr82ZNI3++JdZRtIWIlmvOII20nIWXpZb2QQWked4Zv2xCA\nkcqn45vW5o95Hkw9G2v5u+z8StjZWKNm8YyWyvOowvV/+WB0HL77b6dbJ7QJzfwh\nOyI3LUTY38QVx7OHhlFg10hQ25LZMD4LZr5AVzF+Kw/ftyFCo0hm1bDOqbAHIr9J\nrkBMc2TGtgqVmed0LIwZNMNw9Q+gCcHQZaUILi0DNIqOj1cz6xFB6ZveFQIYX1EG\nwBmdlgRv0ZlEcxtTmhUqAFOF+t+QGWyVcqSqxiOifBULd3LlYA1TtmlPauxb462r\nyqu/XbMs8LRHEcHgZMMtLcyBAzIbzfpDoCZDZaqe8h7knNMDQyIn8nE095A1oTLD\nySs0hWwOcXg47f/rN5paoUrgK9ay0cI5rjYNHPtLbMezuTS5QFYeOJycGpad3qEq\nOKrdg1hnzAvVa52jYoEpwm8RcqsZZyk3O3W3SRGRMaMYitWCaIDpYyeCIx8Hj7vk\njgPIIikqh8yjUt+QJBVboATLLPL+/kgWneRqa6SqvDamH+LlMDtPreo9GusTQ9ax\n4T4ZJGsFgIh1V6m483C39lCwi6Msd+JaL0l4kGXA8r4kr1t2x8c\u003d\n\u003dmhQ3\n-----END PGP SIGNATURE-----\n",
-  "comments": []
+  "comments": [
+    {
+      "key": {
+        "uuid": "25f381d3_ffa4e6f4",
+        "filename": "_posts/2019-05-17-one-ring-to-bind-them.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 8
+      },
+      "writtenOn": "2019-05-17T14:43:22Z",
+      "side": 1,
+      "message": "Don\u0027t capitalize this",
+      "range": {
+        "startLine": 12,
+        "startChar": 101,
+        "endLine": 12,
+        "endChar": 105
+      },
+      "revId": "a0416e96c214eea11706e31f93278920fc35c56b",
+      "serverId": "4c0b52a2-b090-4331-a190-b288d812d081",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "c47caaf8_0c98b095",
+        "filename": "_posts/2019-05-17-one-ring-to-bind-them.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 8
+      },
+      "writtenOn": "2019-05-17T14:43:22Z",
+      "side": 1,
+      "message": "Change to \",which helped fix\"",
+      "range": {
+        "startLine": 15,
+        "startChar": 421,
+        "endLine": 15,
+        "endChar": 433
+      },
+      "revId": "a0416e96c214eea11706e31f93278920fc35c56b",
+      "serverId": "4c0b52a2-b090-4331-a190-b288d812d081",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "7b7932fe_26911207",
+        "filename": "_posts/2019-05-17-one-ring-to-bind-them.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 8
+      },
+      "writtenOn": "2019-05-17T14:43:22Z",
+      "side": 1,
+      "message": "that, (needs a comma)",
+      "range": {
+        "startLine": 15,
+        "startChar": 327,
+        "endLine": 15,
+        "endChar": 331
+      },
+      "revId": "a0416e96c214eea11706e31f93278920fc35c56b",
+      "serverId": "4c0b52a2-b090-4331-a190-b288d812d081",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "663e623d_5a73bc88",
+        "filename": "_posts/2019-05-17-one-ring-to-bind-them.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 8
+      },
+      "writtenOn": "2019-05-17T14:43:22Z",
+      "side": 1,
+      "message": "Redundant, you already said \"along with that\"",
+      "range": {
+        "startLine": 15,
+        "startChar": 335,
+        "endLine": 15,
+        "endChar": 339
+      },
+      "revId": "a0416e96c214eea11706e31f93278920fc35c56b",
+      "serverId": "4c0b52a2-b090-4331-a190-b288d812d081",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "0e8e98b7_9cfda20e",
+        "filename": "_posts/2019-05-17-one-ring-to-bind-them.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 8
+      },
+      "writtenOn": "2019-05-17T14:43:22Z",
+      "side": 1,
+      "message": "Wednesday\u0027s",
+      "range": {
+        "startLine": 15,
+        "startChar": 26,
+        "endLine": 15,
+        "endChar": 36
+      },
+      "revId": "a0416e96c214eea11706e31f93278920fc35c56b",
+      "serverId": "4c0b52a2-b090-4331-a190-b288d812d081",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "0934d5a3_e57f332f",
+        "filename": "_posts/2019-05-17-one-ring-to-bind-them.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 8
+      },
+      "writtenOn": "2019-05-17T14:43:22Z",
+      "side": 1,
+      "message": "Now,",
+      "range": {
+        "startLine": 19,
+        "startChar": 66,
+        "endLine": 19,
+        "endChar": 69
+      },
+      "revId": "a0416e96c214eea11706e31f93278920fc35c56b",
+      "serverId": "4c0b52a2-b090-4331-a190-b288d812d081",
+      "unresolved": true
+    }
+  ]
 }
