@@ -1,4 +1,97 @@
 {
   "pushCert": "certificate version 0.1\npusher 5383BCBFC0EF8F22 1560294694 +0200\npushee ssh://review.carbonrom.org:29418/CarbonROM/blog-sources\nnonce 1560294694-8269CE6D4191BCA356F2AC28E333422D853D378A\n\n0000000000000000000000000000000000000000 e128ca0b0c99449b61f95ef813f7ab9d1598cb8b refs/for/master\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEAeKysoG6T9uCVbCUU4O8v8DvjyIFAl0ANSYACgkQU4O8v8Dv\njyIrVA//YgZjX4Xgvf/eeHM2VA8b0lkzg132VGGIcCTonuY28yy7OUAVaDSc1q4n\nVkQ7hH0hsMw+Z35ZfsCMVAl3XI71f0qywmovE2aEwm95rw5gybzt5EezpNQt5l3F\n0VGAW0G7dG/41GEq8OvGGlL7gVo6VN4eUaQeJ0MwjP2blZEasW4iQfpZVQLPIE7C\n8gKaV+b9LTqm9h4mkM/QnWkMTqxhVNtZICLr6FhWesORDfjA68pGkJB6z4wY8QPA\nVHETkWlk8QHzg1T26fBJC0vh+URQ2+oEF9bFot4GAGPMihkBR8w9mXMHqjBOVIy5\n0Z5Mrn+AtJw33cDEGXgh1uue/MCELQR5gxMOWlP9+HWterE2M1FMZcZ0aKdQmQd/\nAaeYTODU8/dZ+4VdyixhDe5w8uDtGi3c3vi3Kc9o5z5+vB6qQmk1mvLpN8IAOX0P\nr/kNvTwp+z9MIyt9HxZjNDX3Zj90ZjNOjp5q2C6A8+xkplz2jJoL3YVBpGcxXKJ5\njRAiZgpuCxIaCo8VhzYWvvu8oHvXyK3vbjM/S9/6480+zi5tmiefvn+go2BMaz55\nQ3AEHQRYnvoogE9FMT0vMbDqpD5ua51LJTpvu+34TNkIF9gAxyDMcoUWo+nXfs7g\nXtJFpNcSol5gr2L9Yy5zY8LN3HFg9p3l8Qz1FmUUIsDGIY9+xoY\u003d\n\u003dy8sv\n-----END PGP SIGNATURE-----\n",
-  "comments": []
+  "comments": [
+    {
+      "key": {
+        "uuid": "9218e132_cb28f31f",
+        "filename": "_posts/2019-06-12-july-patches-font-generator-and-important-op6-6t-announcements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 41
+      },
+      "writtenOn": "2019-06-11T23:28:01Z",
+      "side": 1,
+      "message": "did you mean chooser?",
+      "range": {
+        "startLine": 11,
+        "startChar": 487,
+        "endLine": 11,
+        "endChar": 494
+      },
+      "revId": "e128ca0b0c99449b61f95ef813f7ab9d1598cb8b",
+      "serverId": "4c0b52a2-b090-4331-a190-b288d812d081",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "aaa91bce_310169c9",
+        "filename": "_posts/2019-06-12-july-patches-font-generator-and-important-op6-6t-announcements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 41
+      },
+      "writtenOn": "2019-06-11T23:28:01Z",
+      "side": 1,
+      "message": "There are no limits or there is no limit.",
+      "range": {
+        "startLine": 11,
+        "startChar": 426,
+        "endLine": 11,
+        "endChar": 434
+      },
+      "revId": "e128ca0b0c99449b61f95ef813f7ab9d1598cb8b",
+      "serverId": "4c0b52a2-b090-4331-a190-b288d812d081",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "47d71d12_eaa24d74",
+        "filename": "_posts/2019-06-12-july-patches-font-generator-and-important-op6-6t-announcements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 41
+      },
+      "writtenOn": "2019-06-11T23:28:01Z",
+      "side": 1,
+      "message": "Tomorrow\u0027s*",
+      "range": {
+        "startLine": 13,
+        "startChar": 78,
+        "endLine": 13,
+        "endChar": 88
+      },
+      "revId": "e128ca0b0c99449b61f95ef813f7ab9d1598cb8b",
+      "serverId": "4c0b52a2-b090-4331-a190-b288d812d081",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "3460663a_cc0806ee",
+        "filename": "_posts/2019-06-12-july-patches-font-generator-and-important-op6-6t-announcements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 41
+      },
+      "writtenOn": "2019-06-11T23:28:01Z",
+      "side": 1,
+      "message": "announcement*",
+      "range": {
+        "startLine": 13,
+        "startChar": 32,
+        "endLine": 13,
+        "endChar": 46
+      },
+      "revId": "e128ca0b0c99449b61f95ef813f7ab9d1598cb8b",
+      "serverId": "4c0b52a2-b090-4331-a190-b288d812d081",
+      "unresolved": true
+    }
+  ]
 }
