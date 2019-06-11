@@ -49,6 +49,54 @@
     },
     {
       "key": {
+        "uuid": "d6b6f16f_2cf6101a",
+        "filename": "_posts/2019-06-12-july-patches-font-generator-and-important-op6-6t-announcements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2019-06-11T23:41:07Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "aaa91bce_310169c9",
+      "range": {
+        "startLine": 11,
+        "startChar": 426,
+        "endLine": 11,
+        "endChar": 434
+      },
+      "revId": "e128ca0b0c99449b61f95ef813f7ab9d1598cb8b",
+      "serverId": "4c0b52a2-b090-4331-a190-b288d812d081",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "70c23c48_51eba096",
+        "filename": "_posts/2019-06-12-july-patches-font-generator-and-important-op6-6t-announcements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2019-06-11T23:41:07Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9218e132_cb28f31f",
+      "range": {
+        "startLine": 11,
+        "startChar": 487,
+        "endLine": 11,
+        "endChar": 494
+      },
+      "revId": "e128ca0b0c99449b61f95ef813f7ab9d1598cb8b",
+      "serverId": "4c0b52a2-b090-4331-a190-b288d812d081",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "47d71d12_eaa24d74",
         "filename": "_posts/2019-06-12-july-patches-font-generator-and-important-op6-6t-announcements.md",
         "patchSetId": 1
@@ -92,6 +140,54 @@
       "revId": "e128ca0b0c99449b61f95ef813f7ab9d1598cb8b",
       "serverId": "4c0b52a2-b090-4331-a190-b288d812d081",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "021094e4_b165de78",
+        "filename": "_posts/2019-06-12-july-patches-font-generator-and-important-op6-6t-announcements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2019-06-11T23:41:07Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3460663a_cc0806ee",
+      "range": {
+        "startLine": 13,
+        "startChar": 32,
+        "endLine": 13,
+        "endChar": 46
+      },
+      "revId": "e128ca0b0c99449b61f95ef813f7ab9d1598cb8b",
+      "serverId": "4c0b52a2-b090-4331-a190-b288d812d081",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "b25d9b36_99120f15",
+        "filename": "_posts/2019-06-12-july-patches-font-generator-and-important-op6-6t-announcements.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2019-06-11T23:41:07Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "47d71d12_eaa24d74",
+      "range": {
+        "startLine": 13,
+        "startChar": 78,
+        "endLine": 13,
+        "endChar": 88
+      },
+      "revId": "e128ca0b0c99449b61f95ef813f7ab9d1598cb8b",
+      "serverId": "4c0b52a2-b090-4331-a190-b288d812d081",
+      "unresolved": false
     }
   ]
 }
