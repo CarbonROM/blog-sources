@@ -1,4 +1,74 @@
 {
   "pushCert": "certificate version 0.1\npusher 5383BCBFC0EF8F22 1565354243 +0200\npushee ssh://review.carbonrom.org:29418/CarbonROM/blog-sources\nnonce 1565354243-3A4A02D47144F5F130EFE3A3664068579342186A\n\n0000000000000000000000000000000000000000 996c223a2850c5185a2220a7d50569ec41604707 refs/for/master\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEAeKysoG6T9uCVbCUU4O8v8DvjyIFAl1NaQMACgkQU4O8v8Dv\njyIPOg//ae6UxJoOoUq2rxYNd8XkKkMPxqcmIrnCwQxX4FIOJPIUILB3WZw7blVE\nn2lhBRQ8YCXqM2wpgksHIpSqL/9HHXH0swGVabpwDJeHbpge0E2pN9UMkpwx10G1\n8MirTbq3g+NH8sDkIyjruHSQuhLziBJz28eKvXrfnGnODBjWGAZWJAWnkJOQeSHk\nMyIJ1dbUw/QQLwFKxvAsj0SdNnMXEfa1ymOr4uyn/cfHbO1PH8/B1aigETbMsQoo\nfzFhfbVvPAqQ6nvm3D1LXmCNi9Pp5TGn2DjAvfX69N2qY6b2TPyj9Hk5eoWg6tRI\nLJNUKWHm4s9PiusUj4ASiAXfUtsdwIeyjdqOPRJ3Gxjl5J8UrK9ya4QhDS8e2hzG\n6n3n8F8cdnd0IIH5GwvyE0sC0wRz9zk3gOFWZ0inBVWWG+slIvZ6WdoVfbHuXps9\n05LzLrNfj/0pOI8K71BKzoR5I3C22Sf0kMSJb83RoY7yXN3Gqe1LBFcHEbv3SpYx\n7/E9GSBicRhHkGIn54ijlCoHHs5iypEaKOuCgUh45jGwi9HvpAmZmL328bryjjkl\n8had63/4bX0DR+abIomJtdb8fL7vMrBC5La6OMYgTLFFX24z+JpOtpItwnPezVfc\nEhZw7faJjTj/kC0l7MlKeiNPGD0y8wlod2BlxMUz+iZK/xbwp7U\u003d\n\u003d1YA/\n-----END PGP SIGNATURE-----\n",
-  "comments": []
+  "comments": [
+    {
+      "key": {
+        "uuid": "2b123452_feca090d",
+        "filename": "_posts/2019-08-09-august-asb-new-devices-and-new-features.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 41
+      },
+      "writtenOn": "2019-08-09T16:38:31Z",
+      "side": 1,
+      "message": "weeklies",
+      "range": {
+        "startLine": 7,
+        "startChar": 11,
+        "endLine": 7,
+        "endChar": 19
+      },
+      "revId": "996c223a2850c5185a2220a7d50569ec41604707",
+      "serverId": "4c0b52a2-b090-4331-a190-b288d812d081",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "879037ac_921d0ea2",
+        "filename": "_posts/2019-08-09-august-asb-new-devices-and-new-features.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 41
+      },
+      "writtenOn": "2019-08-09T16:38:31Z",
+      "side": 1,
+      "message": "thing",
+      "range": {
+        "startLine": 10,
+        "startChar": 108,
+        "endLine": 10,
+        "endChar": 114
+      },
+      "revId": "996c223a2850c5185a2220a7d50569ec41604707",
+      "serverId": "4c0b52a2-b090-4331-a190-b288d812d081",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "15c2241e_fa50093e",
+        "filename": "_posts/2019-08-09-august-asb-new-devices-and-new-features.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 41
+      },
+      "writtenOn": "2019-08-09T16:38:31Z",
+      "side": 1,
+      "message": "the capital W is unnecessary imo",
+      "range": {
+        "startLine": 12,
+        "startChar": 77,
+        "endLine": 12,
+        "endChar": 84
+      },
+      "revId": "996c223a2850c5185a2220a7d50569ec41604707",
+      "serverId": "4c0b52a2-b090-4331-a190-b288d812d081",
+      "unresolved": true
+    }
+  ]
 }
