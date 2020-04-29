@@ -40,3 +40,5 @@ As always, make sure to reach out to us on [Discord](https://discord.gg/3eZCPTx)
 Happy flashing!
 
 P.S: Like Opal, followup updates will arrive Weekly on Wednesdays.
+
+P.P.S: As we've been asked a lot, you can now find a few screenshots of what to expect [here](https://imgur.com/a/v0M23M1).
