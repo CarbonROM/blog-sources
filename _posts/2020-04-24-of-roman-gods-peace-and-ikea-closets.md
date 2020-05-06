@@ -21,6 +21,12 @@ These are:
 * [Xiaomi Mi 6X (wayne)](https://get.carbonrom.org/device-wayne.html)
 * [Xiaomi Redmi Note 5 (whyred)](https://get.carbonrom.org/device-whyred.html)
 
+Starting with the builds on the 6th of May, the following devices are joining the list:
+* [Sony Xperia XZ Premium (maple)](https://get.carbonrom.org/device-maple.html)
+* [Sony Xperia XZ1 (poplar)](https://get.carbonrom.org/device-poplar.html)
+* [Sony Xperia Z3 (z3)](https://get.carbonrom.org/device-z3.html)
+* [Sony Xperia Z3 Compact (z3c)](https://get.carbonrom.org/device-z3c.html)
+
 There are many more devices scheduled to release soon after a proper recovery solution has been sorted out for them.
 
 We are proud to say, that PAX is by far the most complete and unique release of CarbonROM we ever had. New features have been introduced and existing features have been polished to match our standards. That means, for example, that custom battery styles have been rewritten in Kotlin to fit the Android 10 codestyle while keeping and extending their features from Android 9.
