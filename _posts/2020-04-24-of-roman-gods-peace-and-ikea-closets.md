@@ -5,7 +5,7 @@ title: Of roman gods, peace and IKEA closets
 Today, we're here to announce the latest and greatest revision of CarbonROM.
 CR-8.0 will be codenamed PAX, after the latin word for peace and Pax, the roman godess for peace.
 
-PAX is based on [Android 10 with the April Security patches](https://source.android.com/security/bulletin/2020-04-01) and is coming to a total of 13 devices.
+PAX is based on [Android 10 with the April Security patches](https://source.android.com/security/bulletin/2020-04-01) and is coming to a total of 18 devices.
 These are:
 * [Xiaomi MI PAD 4 and 4 PLUS (clover)](https://get.carbonrom.org/device-clover.html)
 * [OnePlus 6 (enchilada)](https://get.carbonrom.org/device-enchilada.html)
@@ -20,12 +20,13 @@ These are:
 * [Nexus 6 (shamu)](https://get.carbonrom.org/device-shamu.html)
 * [Xiaomi Mi 6X (wayne)](https://get.carbonrom.org/device-wayne.html)
 * [Xiaomi Redmi Note 5 (whyred)](https://get.carbonrom.org/device-whyred.html)
-
-Starting with the builds on the 6th of May, the following devices are joining the list:
 * [Sony Xperia XZ Premium (maple)](https://get.carbonrom.org/device-maple.html)
 * [Sony Xperia XZ1 (poplar)](https://get.carbonrom.org/device-poplar.html)
 * [Sony Xperia Z3 (z3)](https://get.carbonrom.org/device-z3.html)
 * [Sony Xperia Z3 Compact (z3c)](https://get.carbonrom.org/device-z3c.html)
+
+Starting with the builds on the 28th of May, the following device will join the official list:
+* [Asus Zenfone Max Pro M2 (X01BD)](https://get.carbonrom.org/device-X01BD.html)
 
 There are many more devices scheduled to release soon after a proper recovery solution has been sorted out for them.
 
