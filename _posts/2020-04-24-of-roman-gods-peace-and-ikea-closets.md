@@ -12,21 +12,23 @@ These are:
 * [OnePlus 6T (fajita)](https://get.carbonrom.org/device-fajita.html)
 * [OnePlus 7 Pro (guacamole)](https://get.carbonrom.org/device-guacamole.html)
 * [Xiaomi MI A2 (jasmine_sprout)](https://get.carbonrom.org/device-jasmine_sprout.html)
-* [Xiaomi Redmi Note 7 (lavender)](https://get.carbonrom.org/device-lavender.html)
 * [Google Nexus 4 (mako)](https://get.carbonrom.org/device-mako.html)
 * [Essential Phone (mata)](https://get.carbonrom.org/device-mata.html)
-* [Xiaomi Redmi 7 (onclite)](https://get.carbonrom.org/device-onclite.html)
+* [Xiaomi Redmi Note 4 (mido)](https://get.carbonrom.org/device-mido.html)
 * [Xiaomi Redmi K30/Poco X2 (phoenix)](https://get.carbonrom.org/device-phoenix.html)
 * [Nexus 6 (shamu)](https://get.carbonrom.org/device-shamu.html)
 * [Xiaomi Mi 6X (wayne)](https://get.carbonrom.org/device-wayne.html)
 * [Xiaomi Redmi Note 5 (whyred)](https://get.carbonrom.org/device-whyred.html)
 * [Sony Xperia XZ Premium (maple)](https://get.carbonrom.org/device-maple.html)
 * [Sony Xperia XZ1 (poplar)](https://get.carbonrom.org/device-poplar.html)
+* [Asus Zenfone Max Pro M2 (X01BD)](https://get.carbonrom.org/device-X01BD.html)
 * [Sony Xperia Z3 (z3)](https://get.carbonrom.org/device-z3.html)
 * [Sony Xperia Z3 Compact (z3c)](https://get.carbonrom.org/device-z3c.html)
 
-Starting with the builds on the 28th of May, the following device will join the official list:
-* [Asus Zenfone Max Pro M2 (X01BD)](https://get.carbonrom.org/device-X01BD.html)
+Starting with the builds on the 9th of September, the following device will join the official list:
+* [OnePlus 7 (guacamoleb)](https://get.carbonrom.org/device-guacamoleb.html)
+* [OnePlus 7T Pro (hotdog)](https://get.carbonrom.org/device-hotdog.html)
+* [OnePlus 7T Pro 5G (hotdogg)](https://get.carbonrom.org/device-hotdogg.html)
 
 There are many more devices scheduled to release soon after a proper recovery solution has been sorted out for them.
 
