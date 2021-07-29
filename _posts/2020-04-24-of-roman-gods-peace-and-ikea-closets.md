@@ -1,5 +1,7 @@
 ---
 title: Of roman gods, peace and IKEA closets
+mathjax: true
+layout: post
 ---
 
 Today, we're here to announce the latest and greatest revision of CarbonROM.

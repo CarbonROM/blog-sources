@@ -1,5 +1,7 @@
 ---
 title: September Patches, new devices, Android 11 Plans
+mathjax: true
+layout: post
 ---
 
 Now that Android 11 is released and you slowly but steadily realise that it will take at least a few months until Android 11 custom ROMs are coming to your device we are here to cheer you up with news. Big ones this time, if we may say so.

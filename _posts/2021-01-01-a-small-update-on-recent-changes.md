@@ -1,5 +1,7 @@
 ---
 title: A small update on recent changes
+mathjax: true
+layout: post
 ---
 
 Greetings everyone

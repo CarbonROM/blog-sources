@@ -1,5 +1,7 @@
 ---
 title: June Security Patches and farewell to Noct
+mathjax: true
+layout: post
 ---
 
 As many noticed already, this weekly had been delayed by a day.

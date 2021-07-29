@@ -1,5 +1,7 @@
 ---
 title: One Ring to bind them
+mathjax: true
+layout: post
 ---
 
 I know, my headlines can be very confusing at times. However I promise it makes sense this time.

@@ -1,5 +1,7 @@
 ---
 title: June Patches, Font Generator and important OP6/6T announcements
+mathjax: true
+layout: post
 ---
 
 Hey everyone,

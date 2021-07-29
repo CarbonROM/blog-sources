@@ -1,5 +1,7 @@
 ---
 title: August ASB, new devices and new features
+mathjax: true
+layout: post
 ---
 
 Most of you already got the update and some already discovered the new changes. For those that didn't yet, here is what to look out for.
